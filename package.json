@@ -1,14 +1,15 @@
 {
-  "author": "",
-  "name": "music",
-  "version": "0.0.0",
-  "repository": {
-    "url": ""
+  "name": "Alarm",
+  "version": "0.0.1",
+  "description": "Alarm clock based on raspberry pi",
+  "main": "node omxdirector.js",
+  "dependencies": {
+    "omxdirector": "^0.1.1"
   },
-  "dependencies": {},
   "devDependencies": {},
-  "optionalDependencies": {},
-  "engines": {
-    "node": "*"
-  }
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mygoare@gmail.com",
+  "license": "MIT"
 }
