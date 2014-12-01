@@ -1,5 +1,7 @@
 #把 树莓派 改装 成 音乐 闹钟
 
+`npm install` first
+
 #定时执行
 
 export EDITOR=vim
