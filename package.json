@@ -1,0 +1,14 @@
+{
+  "author": "",
+  "name": "music",
+  "version": "0.0.0",
+  "repository": {
+    "url": ""
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
