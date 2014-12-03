@@ -6,4 +6,4 @@ var path = require('path');
 
 var mp3Folder = path.join(__dirname, 'mp3');
 
-omx.play([path.join(mp3Folder, '121269522237600128.mp3'), path.join(mp3Folder, 'test.mp3')], {loop: true});
+omx.play([path.join(mp3Folder, 'one.mp3'), path.join(mp3Folder, 'two.mp3')], {loop: true});
